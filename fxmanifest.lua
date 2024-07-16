@@ -11,6 +11,5 @@ files {
 }
 
 client_script 'client.lua'
-
 --loadscreen_manual_shutdown "yes"
 loadscreen 'index.html'
